@@ -9,14 +9,14 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 INSTRUCTIONS
 1)Paste the following Raw Data Files into your R Working directory:
--X_test
--y_test
--subject_test
--X_train
--y_train
--subject_train
--activity_labels
--features
+- X_test
+- y_test
+- subject_test
+- X_train
+- y_train
+- subject_train
+- activity_labels
+- features
 
 2)Run the code in "run_analysis.R", this will achieve the following objectives:
 - Merges the training and the test sets to create one data set.
