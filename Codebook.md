@@ -87,5 +87,7 @@ This codebook describes the data in the "Avg_Tidy_Data" File. The file has a tot
 - **angle(tBodyAccMean,gravity)**               
 - **angle(tBodyAccJerkMean),gravityMean)**
 - **angle(tBodyGyroMean,gravityMean)**          
-[85] "angle(tBodyGyroJerkMean,gravityMean)"       "angle(X,gravityMean)"                      
-[87] "angle(Y,gravityMean)"                       "angle(Z,gravityMean)"
+- **angle(tBodyGyroJerkMean,gravityMean)**
+- **angle(X,gravityMean)**                      
+- **angle(Y,gravityMean)**
+- **angle(Z,gravityMean)**
