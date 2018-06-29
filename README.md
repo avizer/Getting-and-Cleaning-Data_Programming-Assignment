@@ -2,12 +2,13 @@
 This repository contains the R script and documentation needed to complete the Week 4 Programming Assignment of Coursera's "Getting and Cleaning Data" course.
 
 OVERVIEW
-One of the most exciting areas in all of data science right now is wearable computing - see for example this article . Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone.
+- One of the most exciting areas in all of data science right now is wearable computing - see for example this article . Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone.
 
 RAW DATA
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 INSTRUCTIONS
+
 1)Paste the following Raw Data Files into your R Working directory:
 - X_test
 - y_test
